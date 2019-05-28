@@ -1,3 +1,4 @@
 Summer 2019 OSS Git Intro
 
-- Demonstrates git functionality
+- Demonstrates basic git functionality
+- Demonstrates branching and merging
